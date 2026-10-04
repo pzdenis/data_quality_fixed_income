@@ -1,6 +1,6 @@
 # Fixed Income Data Quality
 
-This repository collects generic data-quality rules for fixed-income and securities data. The rules are system-independent and describe business checks without prescribing an implementation.
+Generic data-quality rules for fixed-income data. The rules are system-independent and describe business checks without prescribing an implementation.
 
 Die Regeln decken vier Bereiche ab:
 
